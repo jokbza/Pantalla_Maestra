@@ -1,0 +1,11 @@
+C:\Users\josel\source\repos\Pantalla_Maestra\Pantalla_Maestra\Pantalla_Maestra\obj\Debug\Pantalla_Maestra.csproj.AssemblyReference.cache
+C:\Users\josel\source\repos\Pantalla_Maestra\Pantalla_Maestra\Pantalla_Maestra\obj\Debug\Pantalla_Maestra.Properties.Resources.resources
+C:\Users\josel\source\repos\Pantalla_Maestra\Pantalla_Maestra\Pantalla_Maestra\obj\Debug\Pantalla_Maestra.UI.FrmBienvenida.resources
+C:\Users\josel\source\repos\Pantalla_Maestra\Pantalla_Maestra\Pantalla_Maestra\obj\Debug\Pantalla_Maestra.UI.FrmLogin.resources
+C:\Users\josel\source\repos\Pantalla_Maestra\Pantalla_Maestra\Pantalla_Maestra\obj\Debug\Pantalla_Maestra.csproj.GenerateResource.cache
+C:\Users\josel\source\repos\Pantalla_Maestra\Pantalla_Maestra\Pantalla_Maestra\obj\Debug\Pantalla_Maestra.csproj.CoreCompileInputs.cache
+C:\Users\josel\source\repos\Pantalla_Maestra\Pantalla_Maestra\Pantalla_Maestra\bin\Debug\Pantalla_Maestra.exe.config
+C:\Users\josel\source\repos\Pantalla_Maestra\Pantalla_Maestra\Pantalla_Maestra\bin\Debug\Pantalla_Maestra.exe
+C:\Users\josel\source\repos\Pantalla_Maestra\Pantalla_Maestra\Pantalla_Maestra\bin\Debug\Pantalla_Maestra.pdb
+C:\Users\josel\source\repos\Pantalla_Maestra\Pantalla_Maestra\Pantalla_Maestra\obj\Debug\Pantalla_Maestra.exe
+C:\Users\josel\source\repos\Pantalla_Maestra\Pantalla_Maestra\Pantalla_Maestra\obj\Debug\Pantalla_Maestra.pdb

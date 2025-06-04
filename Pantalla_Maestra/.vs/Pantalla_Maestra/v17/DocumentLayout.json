@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\josel\\source\\repos\\Pantalla_Maestra\\Pantalla_Maestra\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC86C405-F7CF-49C4-BBA4-013021B8108C}|Pantalla_Maestra\\Pantalla_Maestra.csproj|c:\\users\\josel\\source\\repos\\pantalla_maestra\\pantalla_maestra\\pantalla_maestra\\frmpantallamaestra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DC86C405-F7CF-49C4-BBA4-013021B8108C}|Pantalla_Maestra\\Pantalla_Maestra.csproj|solutionrelative:pantalla_maestra\\frmpantallamaestra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC86C405-F7CF-49C4-BBA4-013021B8108C}|Pantalla_Maestra\\Pantalla_Maestra.csproj|c:\\users\\josel\\source\\repos\\pantalla_maestra\\pantalla_maestra\\pantalla_maestra\\ui\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DC86C405-F7CF-49C4-BBA4-013021B8108C}|Pantalla_Maestra\\Pantalla_Maestra.csproj|solutionrelative:pantalla_maestra\\ui\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC86C405-F7CF-49C4-BBA4-013021B8108C}|Pantalla_Maestra\\Pantalla_Maestra.csproj|c:\\users\\josel\\source\\repos\\pantalla_maestra\\pantalla_maestra\\pantalla_maestra\\ui\\frmbienvenida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DC86C405-F7CF-49C4-BBA4-013021B8108C}|Pantalla_Maestra\\Pantalla_Maestra.csproj|solutionrelative:pantalla_maestra\\ui\\frmbienvenida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmPantallaMaestra.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\josel\\source\\repos\\Pantalla_Maestra\\Pantalla_Maestra\\Pantalla_Maestra\\frmPantallaMaestra.cs",
+              "RelativeDocumentMoniker": "Pantalla_Maestra\\frmPantallaMaestra.cs",
+              "ToolTip": "C:\\Users\\josel\\source\\repos\\Pantalla_Maestra\\Pantalla_Maestra\\Pantalla_Maestra\\frmPantallaMaestra.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Pantalla_Maestra\\frmPantallaMaestra.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T05:17:33.741Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmBienvenida.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\josel\\source\\repos\\Pantalla_Maestra\\Pantalla_Maestra\\Pantalla_Maestra\\UI\\FrmBienvenida.cs",
+              "RelativeDocumentMoniker": "Pantalla_Maestra\\UI\\FrmBienvenida.cs",
+              "ToolTip": "C:\\Users\\josel\\source\\repos\\Pantalla_Maestra\\Pantalla_Maestra\\Pantalla_Maestra\\UI\\FrmBienvenida.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Pantalla_Maestra\\UI\\FrmBienvenida.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T05:00:20.674Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmLogin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\josel\\source\\repos\\Pantalla_Maestra\\Pantalla_Maestra\\Pantalla_Maestra\\UI\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "Pantalla_Maestra\\UI\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\josel\\source\\repos\\Pantalla_Maestra\\Pantalla_Maestra\\Pantalla_Maestra\\UI\\FrmLogin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Pantalla_Maestra\\UI\\FrmLogin.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T04:38:06.151Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
